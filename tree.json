@@ -10,6 +10,12 @@
     }
   },
   "no": {
-    "data": "eagle"
+    "data": "Do you live exclusively in water?",
+    "yes": {
+      "data": "fish"
+    },
+    "no": {
+      "data": "eagle"
+    }
   }
 }
